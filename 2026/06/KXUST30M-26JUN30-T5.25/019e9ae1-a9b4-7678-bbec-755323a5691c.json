@@ -1,0 +1,13 @@
+{
+  "skrollId": "019e9ae1-a9b4-7678-bbec-755323a5691c",
+  "kalshiTicker": "KXUST30M-26JUN30-T5.25",
+  "kalshiQuestion": "Will 30Y US Treasury Yield for month-end be above 5.25%?",
+  "resolutionDate": "2026-06-30T12:00:00.000Z",
+  "publishedAt": "2026-06-06T03:02:20.848Z",
+  "call": {
+    "v": 1,
+    "iv": "55392dbb0d76c0592f7a43a2",
+    "authTag": "c137b9f245e3c570887bd66b3f1ae1a9",
+    "data": "U8GlBDsyUba8CtZfrQVenFpvK3L9jn7cI2fdQKhP74JavjI5DcV1rwhQ0G4hyMtZTRmY3yrpKLMwfnzyOlp01SPy2OBZk5Q5TqgBZs22Qz+MA+Vro+u9I6wb1SEhJewRjfYgAMxVHmI+PGWBSd3ExHWHxMLIZ+ozUot/FH8SxiWlJZiYZjBLPaQkd5Bi36F90eyAEdW2YtTMDvVJuENW1BgYzWKzhmjHfG0MoReQtTfsWpR/jY7cj202ahnPdKn6QbmlF/3iNnbezzdFlH4Md1PVRYwRM+FqJZRAUQUqUJ9//kRorHZy+yjX0xxh0YYegyK9NsCcYPndBjitawYmudufkciPmNCBV2GFGtP6J5N46NeC+Msu+KqQ9l2PdpyBAi3roh5onhVAPgz+6Yk1j5CZlkJETag5fBltu0cJUtPwuLHtq1u+N8V2NVr9Od2ws7AcWX8S/2vhAeyYpKREcdyW9Gspvy7TPRkLJPCi7a+SIjj0TUFi+/swnD9HA8UXvHuU7j2LU09sbYBWYmClnsO/U5WPwjWqqiz7hCWzdRIJeivEcmMH1AOIml7rpL2EsvrPhfMbVLmgBTql1lR1HHloHr/fAr5arrNL50NBks3MBEbo0NRaalh3peGx3q+TsqG9U3x+3bPzOIzZQ275SS0Np0lGm1QqYIf5A65ZOoeFbtbY/5M/2NJYqW2Rh3nufNwYkIGyxJ4rWD6SlWkZj+VcUWewGXhmhafSAio6zyyar74Fp3Jox28U10wxLZ+4nSw4ZMkxM1Q8UwiZQsiw8WYefrTOYfoZR5uE"
+  }
+}
