@@ -1,0 +1,13 @@
+{
+  "skrollId": "019ec357-97c7-77ae-af0a-37937a68ad00",
+  "kalshiTicker": "KXBEZELTBBGMT-JUN-3623",
+  "kalshiQuestion": "Will the price of the Tudor Black Bay GMT / Bracelet M79830RB-0001 be Above $3623 at June 30, 2026?",
+  "resolutionDate": "2026-06-30T14:00:00.000Z",
+  "publishedAt": "2026-06-13T23:35:58.129Z",
+  "call": {
+    "v": 1,
+    "iv": "355143647c601d82a4540757",
+    "authTag": "da9876d3a4d5043e58a7c7f776041f50",
+    "data": "8QORTB1T30qMEMTdP0/DRkVl8wcBuFE+G2eornVebldAziFo95YwIHs1jZZfMRO2975Rq8nUiHOcSDB5sDaq6Cuctj24lBqCKh3a5g1CNGEKXaYkE2aKsD8/hEOp66wUF2H2M56j1Pl/8AW2bkac55CDtt4zCtiQdDbptmupcbM+3LFgx61Mf64FjUKjFK43VaRocN0aPA2Rs7GS3rw/cJzMw4payPKhy84SeH95t45uaceeNQiImcn3TtwS8hbDLaf3+1OiGfLkVC/Et4BxkGNtEpWQe1I8W87X9onoSRw0X02eeNKkiborMItpFu/ERKZxj8tEgDzp6IyIsbA5VrOcFkcUK8RMbakCCE7z588TPypXSfHPlov15ioWOFa0CYpmTjSeKcS+ms3U7m27kWphewgxo0vgDBEnfrVbOrXUGDxMisH0aRI56sua5XikO8RPBqQF+Z93Cp096zrD"
+  }
+}
