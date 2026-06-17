@@ -1,0 +1,13 @@
+{
+  "skrollId": "019ed7f4-1cf7-711f-8d29-4304774443d8",
+  "kalshiTicker": "KXUST2-26JUN30-T4.20",
+  "kalshiQuestion": "Will 2Y US Treasury Yield before month-end be above 4.20%?",
+  "resolutionDate": "2026-06-30T12:00:00.000Z",
+  "publishedAt": "2026-06-17T23:39:20.181Z",
+  "call": {
+    "v": 1,
+    "iv": "b76b6833a90b1c41d8e8f399",
+    "authTag": "6548b924a91fc5b7e260a6a5569be799",
+    "data": "r+EMofSH6vbXSfyr5n5edemmzbGajOQXjw9jNzOumbL24eEc04zCGOKY4ZxUf4MgE9++RDa3E9yEdBXORLyFYRZoXYJHC+GJSqL4FnhNaV+uEvLJoqWyyxe4napnWR0xbKqi2LxQC8UJQ23NiUPquKjEsrm+BH/9AzJDsMcL/TqNiaVc5g/4hUy9s8XGmdzFZnjGrnNz7wpbPW7p+Om72ntAERrUt+NLrEyCLyJV0hXb+7Lg+BVkxUQecnpVDi4OVGPUYUO5cDt9tIW0pvHa+ZDoLgj2AE+m3bKkmBGgwIvGObDbp1dc/gjevfcfnKRY6uA1l2MMoQK3YCYx7GzOT4+g3a8kLNEcUF30uWjf08dB5fKZyiAQt4E5iiPUYSsxQdESR3NreSOkJitF53fd6WUuD/NCBkdGiQ44ziOQhMIaRlIOlDC0Al/YjQtmXIpQiE0E9IljqUnA5j2mS/7rdAUV+BEEhXhy4RwugjTyk/E8ftK5DMwEqFRjapr+G4S58UxHK/ZcjwlnfvnKoEI7RA=="
+  }
+}
