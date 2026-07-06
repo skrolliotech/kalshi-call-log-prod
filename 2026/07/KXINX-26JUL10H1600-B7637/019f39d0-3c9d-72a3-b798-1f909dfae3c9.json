@@ -1,0 +1,13 @@
+{
+  "skrollId": "019f39d0-3c9d-72a3-b798-1f909dfae3c9",
+  "kalshiTicker": "KXINX-26JUL10H1600-B7637",
+  "kalshiQuestion": "Will the S&P 500 be between 7625 and 7649.9999 on Jul 10, 2026 at 4pm EDT?",
+  "resolutionDate": "2026-07-10T12:00:00.000Z",
+  "publishedAt": "2026-07-06T23:42:56.155Z",
+  "call": {
+    "v": 1,
+    "iv": "90d9d17e89c4068474c7c00b",
+    "authTag": "df6bbd908133d6abfc75392ddcd7815f",
+    "data": "rTzZ0LNmzFahOh/UcOsvVyol/NLC1/ELR4mn+La7sOfQuea8pPhI03QC9MFXu91k4kooRMaIAC2Rag+dZluHoSmB6Do0fAJx0Hb9Ou5eT8hrfx6XRXv1nBcsSnsT9gmkI8H8Ek5qdsUt/9HfuDMLC+GN1ZzXZpyiYnxoZP8NCIVWSm638i5/1gfZsxDnB8uTx8OI9gzgcNrJRp1CB4mdHQs9AjogHommbVtUTvfjSeIs2G6vsMfGd0+qmkYTNBH9X9ZOGwJQFSFiZmW2R0T95RWVrlG0hwodlvYFF258JcblQECC970JGh7mwAEGf/gjm9MeXaMaSpA5G8YvYvAG6dWt2qnCmo7xBsrSPLtTLB67pjprzdJvvl/gxFYdM8IkKT1zIC7OJytzGh+Y4jZTRgw28MuRESADdc/2v4z1naetXwXqUE3m+CA52YmZ60MU+oRZGJw="
+  }
+}
