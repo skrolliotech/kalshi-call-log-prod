@@ -1,0 +1,13 @@
+{
+  "skrollId": "019f6315-abb3-7134-b895-31e5890a3a0f",
+  "kalshiTicker": "KXWCPRICE-26JULWCFINAL-6000",
+  "kalshiQuestion": "Will Get-in price of the 2026 World Cup Final on TicketData be above $6000 on 3:00PM ET July 18th, 2026?",
+  "resolutionDate": "2026-07-18T19:00:00.000Z",
+  "publishedAt": "2026-07-15T00:03:12.433Z",
+  "call": {
+    "v": 1,
+    "iv": "e01418dc43aa6d2c51e90ced",
+    "authTag": "f2a06d5c827eb2d24844710db7d118bf",
+    "data": "lk92HmMB7LiMWEnCYxZcDEJQBwmo5cEqydPBlxdlx0skSeo9eDYYC9/xbzmeqdopJ86YtiH5CPTMNBL8rz+4pwodazUSfRk17C81vRcWa62EVnC1PFOflu2+wITAIPFWgc8bm6bU4gyUfiKmSlD/xUBi0vMfv6EMvgQor2X+odUnmo1iuBUkCsTxDnwFAxeiad3ADx0XvwnGsUGWCkCxSFhkXZ9Ug+Bx20kVeS7fcMRkD3XjOYeGK+y1xtwssNILOb106quHQVBtyigQ6aq1ZtT22F6J/105/KraGZwhgIpCI0E60XLzuvq8/K8Qylz0r2TUoPB6lFFraglGyuWM9sAKJ2HsN3lGdh2dt4pGDpdB7qn95CGtWFKuiAschlYISN0pvx4yY8UrQ/yqkupIdOxqDC+EDCVcXNi2pjwS4Fft1nawZ9AEQPwj4IXg7vaGD3lXTPQ5qewS/8WgO7i0mwLVbvG3PrbFFZUp6mDzTQr3++4MTwcjDnblBEI4U4f8xfds62hSsJI+3aWbXN1qjrRDzfeyuIY+Wu0mLTp43zsLC/TjJYxlmVvtGOM7sA6sPe2Dp+gm/gv9KfHRUm0xtv8TPNKm+hOYLEbj1n32LtZFZbnITF1cqtBPqWQ/AElTqe+3DGzzJGgBtBrtCRIpKZvrrHWQ4KNbmYR07eJkOz0q3Wxv4ItWAkA6HuBqx+VdTIFFffRNVXx/GxFr7Wrpusnfbbnaef8VswE3uw=="
+  }
+}
