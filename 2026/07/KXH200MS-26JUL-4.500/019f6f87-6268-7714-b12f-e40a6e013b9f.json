@@ -1,0 +1,13 @@
+{
+  "skrollId": "019f6f87-6268-7714-b12f-e40a6e013b9f",
+  "kalshiTicker": "KXH200MS-26JUL-4.500",
+  "kalshiQuestion": "Will the monthly average compute price of NVIDIA's H200 be above $4.50 in July 2026?",
+  "resolutionDate": "2026-08-01T03:59:59.000Z",
+  "publishedAt": "2026-07-17T10:02:51.366Z",
+  "call": {
+    "v": 1,
+    "iv": "ead7a7c2f847548c6293f198",
+    "authTag": "c24ced6d282e132355c7cea488a74a0d",
+    "data": "PayIEbLivFQyd1iIfzqCP3Ly/vemFESAXECOd/I0VeMI6YYI3iigoC5D29fhYdR44Y81N+hPYppn5I8W9oOoOvLo1wESLRDItVqNVky/gFY9e7N3KRe07Iuk2ilFvh1Gs+YJbUo3PcHN1ekt6uN0WOB2iYnCjgUG6NFfop8x4TPRjpPHFZ8MOuIPzgDeQVNvO6PNk2zLEFEjy2QfOY3dqblAJrjPhAYKXvbmcLe29JDpMfvK7ZSSTePqekFy7eiLl3CIPriCHFDEdDGDLWTqE/3F8XsvCzjuVLWi24ctDPwQxdtKBwfsrA9qMGfWSzgFvvl0ml4GApS9ibH/H1NPanuMnVT9c2hiU2RT3RR4nOHURdKs1z3vMe1fy6GuULIgp+hvLuyZQwczh/C20nJf46JNTaN9dQVVj9ZxF3OP2K9pdUYBJZXUPTC28Byz2FHYU3Gd43u1yD3PMxxfiiL3EMLt25dbaptjmkI59EMPXv9zbz4Z"
+  }
+}
