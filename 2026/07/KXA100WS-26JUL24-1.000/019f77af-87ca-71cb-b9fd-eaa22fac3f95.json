@@ -1,0 +1,13 @@
+{
+  "skrollId": "019f77af-87ca-71cb-b9fd-eaa22fac3f95",
+  "kalshiTicker": "KXA100WS-26JUL24-1.000",
+  "kalshiQuestion": "Will the NVIDIA A100 compute per hour price be above $1 at 4 PM ET on Jul 24?",
+  "resolutionDate": "2026-07-24T12:00:00.000Z",
+  "publishedAt": "2026-07-19T00:03:40.104Z",
+  "call": {
+    "v": 1,
+    "iv": "81381b4d902ec309f313cd9b",
+    "authTag": "8fd041fd43d5cf6b379820b407c4a95f",
+    "data": "FGN+VhWo4AHJ9uttQt2WP3ytP7vZsgBWFKKuoT1WFN7M2g+72xuPrcGXdv4jGvwRwizPa4Z7K3RAEB4nZm6HyPCJLWn0ri3dKq3wb+imEh9jjbeYObLgIYtIutI+GYUj+47nWv4NNl9g6OnX0AU1fl14ZH7SnBjj58dbEFZmTAaA3WU1Ws7RQg+ojQCuG1yEBt6gH96vCr7o7tpMoNC+LIyQ1QcbSN3wyLHEJV1GkjAnfpC0FByosN3sGvEzlq55b6Ps7l1KX7JrWEFSjkHfC9BJ/6G2ue8SveuDnBN3CmsUdUumuZqC1YtMkMbDpUdErFcxjYFV7d4M/tKatvFAeLTsX2oIjh3CRelX3lRASYvCXHsUr/ypmjES+Nqbw3PBxINBkjVj+Q7+Ry+3N/1YtQ+KOzsf6DhVC/n6AkG8IAeBg1JSxvC1So+DBNF3sQG9RLuTWhbf12Wk8vRxH328/piQvA8D6nDR3Ida6J9hpu4tB1/zGMSxRPr7vdWGtQ=="
+  }
+}
