@@ -1,0 +1,13 @@
+{
+  "skrollId": "019f86b3-223c-712d-b2c1-f6511fe8a475",
+  "kalshiTicker": "KXTRUMPNUMSTATES-26AUG01-E9",
+  "kalshiQuestion": "Will the number of distinct US states Donald Trump has visited (per VISITAREA rules) be exactly 9 in Jul 2026?",
+  "resolutionDate": "2026-08-01T12:00:00.000Z",
+  "publishedAt": "2026-07-21T22:01:54.488Z",
+  "call": {
+    "v": 1,
+    "iv": "6dcef512111271f7b650f68c",
+    "authTag": "6c93fb225e12c35e8ac1a9978720f558",
+    "data": "lHhzTKW2jJix5VdT3HqDUbT9HRTG+o/XfiUBYUiag/StIh2eEFDVaTBbwbtjKFJscLZOrnOGlIgFSd0+QwKvPft3QDT/+w8CPoviVTsq1kKHLG24C/aCWLQIFbhWgd22AVldYWdGhEAxIHfMonQDriFHEtAMvcPahAD30cm/Yv/CCH615ClJVUs1OR5s82BHHLE3Id/yQhc+cmRpQFTLWqNY93DY+ITM/7Vp6Bi9Qbm0j2fQFajH3agYze0l0vQxw+W8rFzpKKh4ohOD0oSumXgjqE1OUVarQGWrBsp3bVAsA15ua/G3/mSJhPfSbrx/BwTvVFAr2vAg+eDNe3UuqW6nJ5PkU0X8pQX8P3snnpYFsTuxHM+hqdWq+5/FQieW8Inx8+7kjA7/h9m/2sQvcAW37P+nWfYt0oGr/QpQLn6/ZdSDrqdIUxYElu2KKf3Bbdqr/lWdb6bOjdP63Efx8nYXF/K/Bk2c310hPF1l6XGxuPQ1Tu8jmNnigqeutbs5DS9A+XsoA0xtQwFKirOvhgS7J+7oXPhkpxc3YAHhKrumVXGfdxtEGTRzRLYZzamUTJWBYh7W8KsNB0t+8TuxgWGHhu4FN1muyDe4pWtwY5kwevHq2iQRptD+d42OePK7KjXjCTAeCQoJzbvf0yDMu+oWxGDK7gsAPWUotcI="
+  }
+}
