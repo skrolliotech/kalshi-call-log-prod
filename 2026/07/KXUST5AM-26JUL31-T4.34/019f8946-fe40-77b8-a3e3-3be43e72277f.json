@@ -1,0 +1,13 @@
+{
+  "skrollId": "019f8946-fe40-77b8-a3e3-3be43e72277f",
+  "kalshiTicker": "KXUST5AM-26JUL31-T4.34",
+  "kalshiQuestion": "Will the 5Y U.S. Treasury yield be above 4.34% on Jul 31, 2026?",
+  "resolutionDate": "2026-07-31T12:00:00.000Z",
+  "publishedAt": "2026-07-22T10:02:39.033Z",
+  "call": {
+    "v": 1,
+    "iv": "0ac5cecae34d3c65c66769ca",
+    "authTag": "cca57e3b2526ab7ef595b541a26b566c",
+    "data": "EXm0+IKn2r5vu6IgaQzploFypLOGoG5WF4eB6gqGtVSvIWQptGbRIk4vk039/PDlz6SGLZVGsJv0jpb6u9hSXBjFAVOEDcaNSLl12cCDu2bGTn7ASBwkwQLFJnh63BNC8MIqeSyNKTfmApOC7XWEthSjBNZXLRB0VA8/urh1bwpsZyJ4OA9nKDKxPpH+/+jWr+o6Tpr129QywIcqoEHXHiaCL5ZETaCfFkq8nOCLKm7V5j6bJxyNsjHH3haMkRxsFDtDrcloDq4eOR4eodX9p8uQRCaAZCHsSyHg4HUnsQmU/fNYfyQzr7ZRWxE0NYFMvDlbZhZlkSpPfypRcosrq82yQXmAf5V20T1PM4HI+kiDbKWx9Y12ZIphwpi1h1MO7meXUwJussvBrgkj/cAkpjT0aUf+kYa9uHH3Pwys3LdSkS/aDTJlyDwRYupjuiKHvsFBOj+/HKHdxRHQ32GojQA4v5ZjZ4oCqsPBiCHrD5m9TSZaJuHqt5wORQ3mzZIDujpsVppIj93MdG4KO8ThiJGjbw=="
+  }
+}
