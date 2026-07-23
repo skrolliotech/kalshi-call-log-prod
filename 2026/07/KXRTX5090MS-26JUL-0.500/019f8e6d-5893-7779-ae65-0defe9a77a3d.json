@@ -1,0 +1,13 @@
+{
+  "skrollId": "019f8e6d-5893-7779-ae65-0defe9a77a3d",
+  "kalshiTicker": "KXRTX5090MS-26JUL-0.500",
+  "kalshiQuestion": "Will the monthly average compute price of NVIDIA's RTX 5090 be above $0.50 in July 2026?",
+  "resolutionDate": "2026-08-01T03:59:59.000Z",
+  "publishedAt": "2026-07-23T10:02:38.597Z",
+  "call": {
+    "v": 1,
+    "iv": "d6f4b76f2189e995fe75e34c",
+    "authTag": "a1565e7e26a83992e8efd4f6b4d530c8",
+    "data": "8KAfpHYt3cie/m7JPQdUPsW/9gHQfQSumONI2GRzN3sHSjMaXfJt1OiJhxDdqiP5KTAjn8/GyRaYCdVowxTRFYlek5wrz7JKAiBXqOA766YErOezGiNtExhRAg31UOcmDQn66SfEK/O7fGdEBkksG+xOvyhjzUprfSWuw/39XN22Ye8jl8hsESDM7ewLkRXix4f5E8eynj3dGh9QWHnRdLuKQaRnprUmX51kQ/eK+5BNRvQ8JBymmsI2H78AAaI1vLyeN1fB8QZZcTMzqgH5uuLVwM2oySjWZs0BbMHniZb6TxbJjhASI5quuE8KFEHESZ7lLtBV+gKiIGPJwI8oy2OwP2qPTpkdatRdvaAvfctg9cvHtuqGC1DngABmN3NjPNRHGIRjqdjVKwX5tTGp1jHMczkqxHOYhBDjVvnqtY5nxASt7BGI00Xqmgap4NqUtcm2+c/YzfiynrNiBAmpp6SkoyyhkAvGQ+TSjrxa4xArmZ85niOOUcRKCfjoSsfE2Omq"
+  }
+}
