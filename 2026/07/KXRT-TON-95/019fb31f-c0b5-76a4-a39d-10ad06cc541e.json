@@ -1,0 +1,13 @@
+{
+  "skrollId": "019fb31f-c0b5-76a4-a39d-10ad06cc541e",
+  "kalshiTicker": "KXRT-TON-95",
+  "kalshiQuestion": "Tony Rotten Tomatoes score?",
+  "resolutionDate": "2026-08-10T14:00:00.000Z",
+  "publishedAt": "2026-07-30T13:03:50.451Z",
+  "call": {
+    "v": 1,
+    "iv": "735be30112df2b780b5bb1eb",
+    "authTag": "cde5be32c3662056a6c1dc45d0ecb91d",
+    "data": "JJvCk17g91UkCyUG+KA0msypoh7Pq247XYt9lZ+q/l1uaixoFtoAowiORx4V3pprJqaB8kY6UhPyW9lAagTsI4KhJLjqSmybdHONeLlvqwkt6BICvmlGhbKhhUaJDqRKMgm4Heh3rhJ5ev+S9qAu/XeqZgJ0XwQ0GthRqbNqorhO+pz01NgTgDRf0A6tT6MrJhme74V12kW6o4en6AAGfXJpKEa2FGY215qVxDHGDGfqQjqoiPtiRnaHwNgTqqctZsCV8p0KQc+YdCVvOrsnnkZiOD6xWlz82JqPTtwBPVnSSL1MgH+OcAsfnYmyGitiZ1T2YTbJKlmezBi6m/RFpmS5qsttvoRkkgbuPCB3VRq/bm5Fw8e/p3bsRr+uZK7WIAd+k1Mz5V8fNhivjGAY8QpiPB9BmRCZS/Ja1isvoBzM5uYseiMXNpcmByJlu2T8mtb6i513XVMc2D7GiLGxFq32pFVIvTKjW8FL3smmVr+3rG3f5cDrU5GsXyjLPA=="
+  }
+}
