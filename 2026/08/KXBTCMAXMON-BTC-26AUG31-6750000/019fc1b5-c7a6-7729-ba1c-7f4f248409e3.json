@@ -1,0 +1,13 @@
+{
+  "skrollId": "019fc1b5-c7a6-7729-ba1c-7f4f248409e3",
+  "kalshiTicker": "KXBTCMAXMON-BTC-26AUG31-6750000",
+  "kalshiQuestion": "Will BTC trimmed mean be above $67500.00 by 11:59 PM ET on Aug 31, 2026?",
+  "resolutionDate": "2026-08-31T12:00:00.000Z",
+  "publishedAt": "2026-08-02T09:02:23.652Z",
+  "call": {
+    "v": 1,
+    "iv": "0f53234fbcf1cc95a89311b6",
+    "authTag": "1e7ed2aa3a5e046791ea473975a38692",
+    "data": "A3pdqL2dYr82SlYlvU2qHlqj0KEChoRFkpsxbIVOUA7pKvILHhOKpveo+1vS3Du2XEPzWPlLeIppZIwdeiLiGdBbAPzfn0RK/HmpME7/Qd2xVQzUNWMBQQ3ynPlviiRCqoZUUEDuPdVSykadsCwd0l4MG3ygEvzmSSsmMOI2ti0x3Vl5tsnw5FLeeWZlq8xk6uv3FrIlJnGRsbgYLuFM5tsBGs18zcR+kge8gcKKUgjj8S96fjiNO0Y/CNhha5vxiIJmshRCP2Tkr7crtlEKcJpcXpU0jLCWBLWdcsF0r0bfX2Xx/cBHEvXJn+75wM0zHC1pQ9nrKWq1mph5r0eWXVPOUsGwaPDUTmWxTQIhNnzb0Ps+5PhqGIGxAYfjjv4JBXuVrynlmd6DJ4Y0YrSn+XidSc2BaCuV1qh/OAzsC4Jp7bV9skeUQ85IUTZQuu/8ck28VXUPhHcQtywc+EvcN9i9muNMkc5EU3glfMaqRhLHjHFbQ25KIb8q9NILu3bbh46mE9y4EMAg7smbjmGu2dN5"
+  }
+}
