@@ -1,0 +1,13 @@
+{
+  "skrollId": "019fcc02-b485-7158-961d-83a10a721752",
+  "kalshiTicker": "KXETHD-26AUG0717-T1849.99",
+  "kalshiQuestion": "Ethereum price at Aug 7, 2026 at 5pm EDT?",
+  "resolutionDate": "2026-08-07T12:00:00.000Z",
+  "publishedAt": "2026-08-04T09:02:37.187Z",
+  "call": {
+    "v": 1,
+    "iv": "a6e5a73863e94e26f914c180",
+    "authTag": "75162940abb81a8aa10a7aa218290e02",
+    "data": "Sb14wGrtVDvRrlH0GGciq0V4TjCzMCm+tK/INWXir6pA2cDydwVgixoitDHb0iuZtxghpK5aSbX5BYxrbiWjL3rjtN+GI+OPtG5O5sZe2shEBxI7n7xENMgYVdUjQ8PZtc7qIe7KUKJEPlwfOtMo8+L46XN+Vgk7w4hTH3pcUPw3Z0RBeEXOWCtZEQtwjTw0HMfPjFNl9u46hXSG5tn4/wYMQDubc/3beFPqbp56ne/jS+1qD7eI52IIvGLCjwh9BVg3FH3dvUyK3qlAg2qYvid+Sk7nczVEBjlhow/+lLcCmsvjOmqpmx3HHizO+i03+l3T7CZdy1DBzkE5X+r39XGMGUBS8wp1dRRlqottQUgxIsZuaAJ8tdoL8fgXkEmTGnOg82gfjZGqLnPnLZh2FxbN+2bbKVpvv5O/pS4YQctZcQSB5rAYnDOP38E2ZL4CPsG1qU5/6/qiAtc="
+  }
+}
