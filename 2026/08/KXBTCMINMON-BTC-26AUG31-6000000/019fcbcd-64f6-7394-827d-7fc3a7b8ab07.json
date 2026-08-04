@@ -1,0 +1,13 @@
+{
+  "skrollId": "019fcbcd-64f6-7394-827d-7fc3a7b8ab07",
+  "kalshiTicker": "KXBTCMINMON-BTC-26AUG31-6000000",
+  "kalshiQuestion": "Will BTC trimmed mean be below $60000.00 by 11:59 PM ET on Aug 31, 2026?",
+  "resolutionDate": "2026-08-31T12:00:00.000Z",
+  "publishedAt": "2026-08-04T08:04:23.411Z",
+  "call": {
+    "v": 1,
+    "iv": "638e9be1f46cfb89966adb73",
+    "authTag": "3ec1db901cf45508f041ae9c87d8cbb3",
+    "data": "eoASG2li6C/tkRipQ7Hr0BS+mOHGEVbZj1ZjnG1jWv79RqMAae+RZ8hGQQn3D+htd5sjng8/7GptJ8/4XPDr1RQB3qQCo/UjmFQUn8FZW55UY1pDuUSnwvbIFG5W/m3slJeIuqRzFs3Exo8MA+/K4f8DQMxmM4JrDTMLP4ehGLjk3zE8YJPV71Ez71OrXlNxVcgWdr8Q/t2jG8Qa1yfCoovlWgpP8jXIQFeD1ivhlCOWIIkEX92Pm+Rv4soH1pfHetE8pNZZfCvJaQ13o7cZqYuX7DRNcQcZJS4rsi4bjqGWtJnf/sAlPDN09Qr3ZS48cEkrS7UzE8LACzOnB3L3sE9c2PpqPFW6bJvqSw57+ZFhRwmeN/sG+qtJP0uFqhshY38IHlEj7wBF8ILVTDONLI1p4V3NxDayyJVK5kAARqo5rMMpJfy3vGQvVuKMkNckQQ5Lkqb1/gIRZzE5wVi9cAj+8HjdAaBzDZyDDsi5nBZs/8myR3EkkgVlxV1WXQgYx2q5pxpIcRLLYaNO7My1dqLOHOJrUzG9EmdxeSYsnrxSr5Ugp3h/mmMMH8OpYNh6g2aOMlK4gZU="
+  }
+}
