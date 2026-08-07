@@ -1,0 +1,13 @@
+{
+  "skrollId": "019fdbac-2aa3-7376-a6f8-0df4308a0fef",
+  "kalshiTicker": "KXUST30AM-26AUG31-T5.24",
+  "kalshiQuestion": "Will the 30Y U.S. Treasury yield be above 5.24% on Aug 31, 2026?",
+  "resolutionDate": "2026-08-31T12:00:00.000Z",
+  "publishedAt": "2026-08-07T10:02:01.249Z",
+  "call": {
+    "v": 1,
+    "iv": "9378110832c876d587c86fb3",
+    "authTag": "df2ec0b1d709ae8e04e5c272ff8d72ad",
+    "data": "IocNBy/hm5ZlMydr8brswh5d14QsDPX2FVHHNp8gYBhYCf1+Y6uxAiH+TLLvTdmJkzoXCU6lGTUgW6O9K9hwJLah9lwtpI3vf4yM8zwQEyQZ1a45re/ggbH/qrsRPmrvUrxYNo2Qd7ADJTJYyC1Jtn1vCDXEJOyOUA/9FFxAew+ajoIQiBVbAsLqL/cZFhxKbbqqm5ujBtqhGNHzsw4TcWldnQxI5C26MgRJwjltX0pO31yrvyZj5zUwZbd0DAIkNp/fGOeXh5TG91Tx33W8Bldys9DFjNDBehoI/b7+gMG3oDDLIprK/US34hdXlMvipYYaUuxxB8jB7VSJh3RAIWdZiLFMgnpOQBQfBegtZYmpPcFP+B/Agzv9T3/E6qU46Nb5rEhmcD9Grc+ueiuRMvJNHim5H4wnYaka3t2PLk6Ch+fEfL4r7LJH4cP6vCxmidiyA7R5RHR4NNfaHYOHEmsh8VowqA5LvagJBcFOqmE5P5F/WnF4vWeh2NuytEvD2S7YGTUdH8/8uZ9vjtGp"
+  }
+}
