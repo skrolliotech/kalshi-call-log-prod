@@ -1,0 +1,13 @@
+{
+  "skrollId": "019fe21f-f4f0-703d-826f-af5dd0249e72",
+  "kalshiTicker": "KXB200MON-26AUG31-5.510",
+  "kalshiQuestion": "Will the B200 compute per hour price be above $5.51 on Aug 31?",
+  "resolutionDate": "2026-08-31T12:00:00.000Z",
+  "publishedAt": "2026-08-08T16:06:12.974Z",
+  "call": {
+    "v": 1,
+    "iv": "108145250ce22ca18060f6ad",
+    "authTag": "5204751bd6611b1308647f932ece4884",
+    "data": "SHeGU8DRcn3m870YR0zgguKWXLEn+NqqW3Ibz4JDhnKu7i1z3tKx46U4cGHDXeMlMPg2pxvLFchNrcZ91k22hmvjS3oQ/c/SLsEYDDaqCHVd6KENQicEm0IZoQKLeJXepT83Mbw6FIQVxeb9EZ0iYCpuN8Y/e/ge9MAZdzXJsLKGGQbFQ3UX8u/bOCsM4wazjPhdPWjDOjS74Zpfv87Mkm1RSJ6KrpL8YgmDjhgYFJdSPOksEQUOQC/9n/QO7T+z+kQ49dbiE6z4Wknt+GEicyciTbbBJFJQIkAboz3YrZbz4Tka5DUIz+BYKWud+Ez4s6VNtnDMiGpOSxvbvjX+4fViZoez+I5broUBHCekINSXMC5/jgZYzqMMGZRXzSYVFPJ6P/9mjpNqes2Ex8QXj52kelJXlSl71PIMGu92weCTxpQyPNAsICCIMvLbJvMVYs0nC359A0k13olHbQr+IZDtRdJenLjWuG6b55dI97ayqDY+1584CyFVY6Ys/JW7gq0geBON3KeM63J7Xj1OjPENkJG1aGs1HIRhAP73Gtmkb+9yCXRN2OxJ5R5NMjqebOUjP8vYkaLyWXcuQEGWGybej72cjBCozZ9eO5LVMUkPcHABhy3y8B5wfd1a/IFcHgqiG0x4P4hN08MIwdYCHkQ5DXCNJGaGtSX0R+MfuXx6P2tKmABWtxm0LsiI"
+  }
+}
