@@ -1,0 +1,13 @@
+{
+  "skrollId": "019fe58c-97f9-77fb-add7-4511fb388b62",
+  "kalshiTicker": "KXBTCD-26AUG1417-T64499.99",
+  "kalshiQuestion": "Bitcoin price on Aug 14, 2026?",
+  "resolutionDate": "2026-08-14T12:00:00.000Z",
+  "publishedAt": "2026-08-09T08:03:44.247Z",
+  "call": {
+    "v": 1,
+    "iv": "210dab41e543597a50cf035b",
+    "authTag": "40cf52ec478d06cf81252706b3bb3178",
+    "data": "Lu4FhQ+rlfH62wmk7mXJiHVVEUfDaggDCLgiqE4yRa9utuVwTQZMePAifx+MzBGR4xPJldPocin7wi+6ZHHpBk/ZfN7LV7IF1ki0KTLF7Cz5N0rEEoq1ZuVBVFe1YUyp/G1CUzz+5YRZ2wEYmM1TWIk2W6CGivwYSaoEZT6S4AH3yKIw1vPsOgLRW3fJe+q0IIrr1DC/NNYRHjE1OSfYA2pWbQ1qBM+DVYnP6xdh4m6DBJEMENp793q2iai2g2VcWSdZAFtGcHcXxS3O5VMMcMHH0WRKBzLU3QI2a9yAhnjeOvuaeOX0+0TJbuLN29KqVGioEbzsyLlXjOvX54kZW4c5Qk9tlJ4UthzbEJVn3I2fOFyFkGY7AMckcyEvmfy9foe0ofbTy5NOTcastR2prcoRN4fbtKa1vZKN2f8VMRwk6hVZ5ACwJdxjcjWDkCb6AD4tz+OpVijVxUtbFnA0Q1tp9Fx+1xS7ECyBmDPIhHx2l1W6J3iW70SKcXtZjFb+f5ZhxsF32PMRE+yT04xVpNRzUtccOlsT3mU="
+  }
+}
