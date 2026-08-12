@@ -1,0 +1,13 @@
+{
+  "skrollId": "019ff612-a280-708d-84a4-4d909e23e976",
+  "kalshiTicker": "KXRT-COY-90",
+  "kalshiQuestion": "Coyote vs. Acme Rotten Tomatoes score?",
+  "resolutionDate": "2026-08-31T14:00:00.000Z",
+  "publishedAt": "2026-08-12T13:04:04.223Z",
+  "call": {
+    "v": 1,
+    "iv": "acc4f3e682cc8544266199db",
+    "authTag": "86318b39b47d5ed801ea6228d0f4b9cf",
+    "data": "fZb7Cg3yY9a5EV6/3yuMqJ8Y2oI1UqKEU/LNf3RmCTjep4B+lV3ci6n5p1sExvgkVtPekKytcjslHYl+CC5iF9l+7hP9mPDmAfl6UU+WvEZ+B2sQ3A2XGjq+Xk+5df6en5wbqgr6+D2dIecW5lEFfUz0tiMrX3Myo+XynKCA3t6qCInltVTNWxQe666TEaVR+LR7VifrmcI5Q1jVZwC5UwXTsd/tK7wVqbDdESCAs+ujAT/19IG+Bi7/hsFosXMwIKhXxpaShVvtyQ6n3X/dCfTPNwIWMt2S0jEmW2GUKHVlsc0OhI7BLCtZD8sdGsRW1i/ZK5Sv54QMtRRp59ISvxjcISUJfMwpoqsQfhFrQHv6ggFvz3gzUZ3GNo5fGLBELvGbop10IdoDwBcYq0hEPByt2G7ShLzbQueULo3c9vyQ3Ci/81p8NnLg8Vwx68y8XzWcouagHVwzrxhYbW9asGLgrNjebna3VVkPvNM="
+  }
+}
