@@ -1,0 +1,13 @@
+{
+  "skrollId": "01a00473-7256-74d0-b592-040f9c8b2ddc",
+  "kalshiTicker": "KXZECMINMON-ZEC-26AUG31-44000",
+  "kalshiQuestion": "Will ZEC trimmed mean be below $440.00 by 11:59 PM ET on Aug 31, 2026?",
+  "resolutionDate": "2026-08-31T12:00:00.000Z",
+  "publishedAt": "2026-08-15T08:04:29.908Z",
+  "call": {
+    "v": 1,
+    "iv": "8cd112f580bb7ac8505816f2",
+    "authTag": "9b4fb5ee915b8d2aec6bb0a59c2b9ad7",
+    "data": "AM6EPi10Da/j2yqZpEFTjR7WEKA3hvKEPz5Gqs+so4iSoFsT4UXhgLpC7tLsFfrdrS/2Hcbq+OhuX7wqjzHGnIzx7E5TTqUY0htBocn1W4NSi1+K45NqkSYLkCUTD+9ZlWQ1TFy9tnLLUgvePhS1m+yOB6LhFni8lV3YEddmOmiMBUYnPq8TNYK0XjG+zcojZViS0IPe4Zz42VMENdWL5sg/sv1tGxHd/kNtiHcgp+Fox7K+B/DJ6AWZfX9+6TU1I1bVD4aZJUVf9JaIAwLCrGQr4xn/OQCY95ew9S1r6QNK5Sqb3VfullSkllIWdExEYsf4uoDu6NmzSPR+iEmfxhM9DcqrhV++SU5Q0x5Rq40TTz6SHz03by3+bZ5aXrF13UMLiSSAtbNA+ErojXHp0j3ub2yJhykPYKRj4haefwMBvY1gVW7cSAL06nXkIsKufwVM+I/d/tyB+bEXq26NuN5uK2S0uYt48oGw4l2UpjOWsj+r4toYYrikSELcaIyStysaJPoRXwcgQWQKsfsDfP1yGWK+mEG/bBrDiDQuKmH/891TGNiDNZe0dcIiafm/AtqOf3gE7307kN1+DJiEIaT+xa3H+F2r1bRkAQ=="
+  }
+}
