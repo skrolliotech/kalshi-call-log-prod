@@ -1,0 +1,13 @@
+{
+  "skrollId": "01a00ef5-677b-738c-902f-ac8ced23f94e",
+  "kalshiTicker": "KXXRPD-26AUG2117-T0.9999",
+  "kalshiQuestion": "Ripple price at Aug 21, 2026 at 5pm EDT?",
+  "resolutionDate": "2026-08-21T12:00:00.000Z",
+  "publishedAt": "2026-08-17T09:02:38.969Z",
+  "call": {
+    "v": 1,
+    "iv": "f8f18d8b74b52e6722ebc6ad",
+    "authTag": "84e7a30e773a07267022148dd143f6a8",
+    "data": "H+y/94DT16Gqaqb2Icn1YVZdwjbT5S3AasIdMFcZOmFF+cUSVbwBnZeu9o+/M09eiLX1QeM6BXowqCfDkgzG/TaoO8QPpa2ojoDiA8ip3KwDIxjbatpaRFGXmTqe/iRtJRo2B/YLD/1sE1npzLjU/qIyAyQJeLHV59OJIQDkcYPjubgAmNI6zd/lkTQkV2PzI7wU2UTUiqf/FRIfZxuuCTanctyP3c3ZeoHHB9xuJiLmgcbsYLh7YOV7HDBXpoPm5Ux8xhCBjhnfIhBj22wvjH0XYKny7LUc2i03+t9WBGh0zc5rUpxpeBQTSJTJ6XReNHlaO5MPv3WkSgkb0Ohau3a7nT7ly+MQ9tf3BbsmPPnBxNHZyTND/OSxCOuoMzfV1BJlJXPCQuSeA0tn7F5gDRdv4yjK3YOwVFcoBLbJ1wtK+QyLU3JJ8+9DhzyWZAPUj5wEw/FQBQm2VUxGlELeWlo0ZERfXIabCdtPDQpGP3ohS+EKYNHnsw=="
+  }
+}
