@@ -1,0 +1,13 @@
+{
+  "skrollId": "01a015d4-67b1-774d-ae5a-ee046c936752",
+  "kalshiTicker": "KXH100MON-26AUG31-2.810",
+  "kalshiQuestion": "Will the H100 SXM compute per hour price be above $2.81 on Aug 31?",
+  "resolutionDate": "2026-08-31T12:00:00.000Z",
+  "publishedAt": "2026-08-18T17:03:56.847Z",
+  "call": {
+    "v": 1,
+    "iv": "36055dc6b40cef8b4e8579b4",
+    "authTag": "d5a716eaf56050e9d8927383c8e3732c",
+    "data": "dhIgqAzgNZ5/Oik/eT+D6+TrCkX5yFHNzrg2BFBO8Zy1cw2TK0MzKfRguKXr2OF2SUednsesHEEPVI6Aq33Oke3uuomwXFyXREK1x/DjTm07cAG1A+uTn97gOEDMNNrsper/AEn4wVzl1nZs9jgGBvtRq1T7vz9ktyx/mwbjx639pBmt8oUJg/JU0VY2Tonn2BNp1JP09/BZcEz+05jlxA6tXT0kJawcaJYDQ2rbFvRfKIbmD+B2sx8inVL7zzSCAJ2bkoMmM9EIPfS1jXRhiTwIfU5Of0MDAglWWpCxVMaKwnBejqBds5fjptdwRjRTU9VSZNJLrpT3MM5RzUzNwq/ml6jNt35SG2vrTdJfwilk2qZeTwzML7HDEBeBQtMRpGZE0ognmWY8OBAZSsPU5Dl4Ou7o4v/TUbBRY5X4tdnZtaR6nBEmAmDHEdLOWmSSAtuj/Q=="
+  }
+}
