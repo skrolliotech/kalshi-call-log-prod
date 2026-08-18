@@ -1,0 +1,13 @@
+{
+  "skrollId": "01a0159f-0ffa-7743-8dab-5e8034fc25b2",
+  "kalshiTicker": "KXA100MON-26AUG31-1.030",
+  "kalshiQuestion": "Will the A100 SXM4 compute per hour price be above $1.03 on Aug 31?",
+  "resolutionDate": "2026-08-31T12:00:00.000Z",
+  "publishedAt": "2026-08-18T16:05:40.984Z",
+  "call": {
+    "v": 1,
+    "iv": "eec5693ec6e410e7d0c60027",
+    "authTag": "f38998e4f81618342d9ebfe63b99fd3e",
+    "data": "Q8Aelk0zwQ6Sx3kDaHp7QWxtd5CFXKFJLiyp6clQp8pBnNEh5nINzJfjXPsQMDfYt2KVrDJlpevXNL6hOefYaUm4ti/3+2gQLQB5cOaJ/3rKJJiT9/g9/cO7+xfbm7SKAuMdl0uh2D0Tpl8zcyoOQ3h1dTIWee5Lyyc5viae+3jUb29ciqNXOq9B/7Uh54AoSdvJgEW7yJIlN2Sko1oBqxlBSA4KVCVdbBbOgzmvmIenfN2OeW0a1dsOrlvxJeTEW71y5fiS8t6isb8LVutMJwuIBxWnSJfr3wKF+5yFXtqKlgfQtbvzbBQdHs2Rm2Da5JLdhSpUChKGIj3xT2Is6DkoqqKALqUX7FcaWnnAbAwLKuX6CsXt1RAA1qmWo3/A76Ra/aGkOTohyVPcGP33loUSMUNDRNFOq2NsTfO6zyUmLaasCXHhQUTB2OcaPBGnieydiSqF/iZci+aRWMLfGohV"
+  }
+}
