@@ -1,0 +1,13 @@
+{
+  "skrollId": "01a01452-a924-7565-8cd3-cc74d66b062f",
+  "kalshiTicker": "KXH100MS-26AUG-2.750",
+  "kalshiQuestion": "Will the monthly average compute price of NVIDIA's H100 be above $2.75 in August 2026?",
+  "resolutionDate": "2026-09-01T03:59:59.000Z",
+  "publishedAt": "2026-08-18T10:02:36.706Z",
+  "call": {
+    "v": 1,
+    "iv": "6871b3295cca6fb8a8e97a98",
+    "authTag": "7ca78b1519647ab6a5caad66f74c1b81",
+    "data": "EqCEVbeqrnYrgk+tpU+sxZ/FzjDV3Ld8U5zBwuFrm0isWP+7HAax4cur+0x4QyzbDTK/pR1rmkwy8JTSkaMMv8Gig72Lxc6kg8mqtNYi9RrXLs8vbabt6527B0LFia6H1AGTBiWdZpXVRolAySZ9FOhrISSV2Cjt5QqR5Sz+bad3zsfaS2O0wYoZlPqz3hanNxza1HGXjvPsJ1QbYgczfIodz2/0Keqb32Ll+w541hYfMySl7PvkcQg0Fql/nfMF5wBnJomI3czrS8SkYA6oQdymJP22OIfgAJl9AYnyJKRwfMCSYthgm87b7nAbOm03bcxQoU+fcM6fqj4m6DoarMsCPcYIg0/qijsF7cBsDykBmEUczV8NNRmmWyHCr71bwkB4vEsT3G2qa0bk6+w9urBaIbury7aqbeaTquMfysYUDwhwiGQ4Il3bn4RDnZUt8f7ZtqkLnxmCrqFeHmV/qnLuEk0="
+  }
+}
