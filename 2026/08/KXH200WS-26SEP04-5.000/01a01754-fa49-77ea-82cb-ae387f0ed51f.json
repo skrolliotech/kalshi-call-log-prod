@@ -1,0 +1,13 @@
+{
+  "skrollId": "01a01754-fa49-77ea-82cb-ae387f0ed51f",
+  "kalshiTicker": "KXH200WS-26SEP04-5.000",
+  "kalshiQuestion": "Will the NVIDIA H200 compute per hour price be above $5 at 4 PM ET on Sep 04?",
+  "resolutionDate": "2026-09-04T12:00:00.000Z",
+  "publishedAt": "2026-08-19T00:04:00.199Z",
+  "call": {
+    "v": 1,
+    "iv": "1a1794d6508ad7bd174d9955",
+    "authTag": "41181f42a906876646721e90f6d1a70d",
+    "data": "egbMXs0myK/OO+hi4igNIcbzeJO43Mftu+uwE7mGcfFv8SX6bLo6tO6IvV4gTNCqoh5opX3h9jscdaATo7RvoGZwkCHBk94drlccTRU46GOxE+G2ki1rvc2N+PHxITXSxlXJE7Zc9NHUMc2d2PSbxxHCVLwzJ139Cf6sOA8Lrhn2bB/z19TImZKyjzC2o3CGs8YpS1kLbS2okZJtlT0cYEq1H2mt6csE1NqCT+2hDoYbedYhPEfqAejdX9TUUMvr9/1Ee/ACb9uYS2hwJpAFVhhLkRbk/PDITuqzHvN/uejxS13ss8j/2/dM+P2rxE846mXW7lNWMykc2L3P4d6dpOisqEwKkl6xPgoT+APJYGwn4lmtA18AheybEgfjnj1vDKbUOM23uQAkVugE3I1NyA+BUyVZX6khHREnnaO4uYdKBseQo5NEzT2KoVLcSN8dylOzklzPzac7znvbNz06OX10jIxkVMoyFwNkJEvN6tgKtvGMrdJloAMwYBqntU8Of+53"
+  }
+}
