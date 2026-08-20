@@ -1,0 +1,13 @@
+{
+  "skrollId": "01a01e68-ae54-753b-a548-b4163b14a4ae",
+  "kalshiTicker": "KXSOLMAXMON-SOL-26AUG31-9500",
+  "kalshiQuestion": "Will SOL trimmed mean be above $95.00 by 11:59 PM ET on Aug 31, 2026?",
+  "resolutionDate": "2026-08-31T12:00:00.000Z",
+  "publishedAt": "2026-08-20T09:02:51.986Z",
+  "call": {
+    "v": 1,
+    "iv": "dc02e919f5cf3ae344300216",
+    "authTag": "37f39d42bd216d76b053abaf2b3e0bae",
+    "data": "R5FnpjhCHxrUmXqEl2NKBXlOajREyt05s3lCVTXayRgRgsJBDplgCSn8KHRZOPR1p7BcPdxQQnmVLtA8ROUaqfMQHaBV+tqbD42tiJ0b5iZF9+MqTpydei79WtKDa67FbsjuNTY7F8AGFRC/depHaV+qarAQJzNzU7plhQPrcEESBXK4QxwOTBVMqe4+Q0zE5Ekejb2L8tO9OUzlovCX+HWilJu28hIcrVDvV6J7g5o0wbmXc7NXBvuFMUlzZmVDSfqQAPQqXfFkSk8sXGhQEFMIypfxOuIrIrOsKu8Z8fBObtGDZuEWgfIx4TvpGShpawTC8OYOcdDsRWd02Z6h+Bt2CBeNxiTDcOtwaaQTHdKNsGsuG7wlTtC7BMZoigNRj7YOvJK2GUh429d7aU5OezWwsK/mVbh5rMs4HVoHA6UtDQJcMTqaRweU1tBNBFi2AUHgEaN5/uJWUfPlvQ=="
+  }
+}
