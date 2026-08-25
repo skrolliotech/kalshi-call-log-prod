@@ -1,0 +1,13 @@
+{
+  "skrollId": "01a039e0-91a1-74be-8402-fee989dae6e5",
+  "kalshiTicker": "KXH200MON-26AUG31-4.420",
+  "kalshiQuestion": "Will the H200 compute per hour price be above $4.42 on Aug 31?",
+  "resolutionDate": "2026-08-31T12:00:00.000Z",
+  "publishedAt": "2026-08-25T17:03:33.791Z",
+  "call": {
+    "v": 1,
+    "iv": "5a6d4e754b9a7497188e28f4",
+    "authTag": "aa5e009d65fe28a6c3089646ef2ceaf2",
+    "data": "0+mfnB+lLs9sy1S3rsIwqB4m4LvipfVbr3ArqTUlYmDXnOL7lBF7PAn2hnA7o3bNG348/oiEzDioz2ouPBz0eMdztSi1oL/94O/plRLWpDaVy9pcrnqjmi/LG6gWfUCFsKJCSE454oFol4R1laM0DITgETB6M90ujhIFzc3aI3V9dLEsz1HxqaOyi6kiGQmBuL4lIVCMNL+grg3uvf+cH9mjyRzn6mDcfuevqmSxUMqg8I5dswzvL0WyLo08v0Nj1DJ3NkpydeHRl+sFNSVPRuiRfh0OYM+1J77sBooAE33MjOHTsNc+EMLODT5cmEz0K9gnL73J3dDKirfRIjEYh4WSCb1rsEOfI+Wc9CSvUNiwMPg9D/iLaET7xctl4jcalrqWHmoPbf1llfFjgYzLbc6Oho9+uMn4tjr/YOgk7wJo7itlCuXzNwmhvIYHmENsAFkv8n8Hon1ffipFEvo5TZDbPbK8x1Bf29Bc1HDWizrrYahneQi5eNpbB7PzS/NZATT40jhZ23o8KXKRRIN+7R3Rs/5NOLPR"
+  }
+}
