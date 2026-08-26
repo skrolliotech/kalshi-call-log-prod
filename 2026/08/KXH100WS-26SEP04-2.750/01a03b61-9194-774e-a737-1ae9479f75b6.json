@@ -1,0 +1,13 @@
+{
+  "skrollId": "01a03b61-9194-774e-a737-1ae9479f75b6",
+  "kalshiTicker": "KXH100WS-26SEP04-2.750",
+  "kalshiQuestion": "Will the NVIDIA H100 compute per hour price be above $2.75 at 4 PM ET on Sep 04?",
+  "resolutionDate": "2026-09-04T12:00:00.000Z",
+  "publishedAt": "2026-08-26T00:04:05.138Z",
+  "call": {
+    "v": 1,
+    "iv": "1405c94f97ce61979c54b1d4",
+    "authTag": "c9366d8ce32d1d174f0d66cb6143924b",
+    "data": "w9jrdX1GqKHcgJdHiCO1tzwIT6qiO5eAH7HeIa8eG5B473gRRISEdTWsaDJwKxYgJYT6kjSEi/QNiPUyYJfaFqR7WyYtsKIol28ecej8iWIYU1LvI+oyUgmaWDEYhh1ckeslmJp2oqRsHS82MD5TNv6ZaVYmvLy54tkatXNDOEpZj/I+x6ovuF3i84ew8Eg1sQbFJRDk/t6NO0pohtOBAMdcGNRf40bOokiB3wNSKZ/dfW7DK46/DrC+UvRbADqmKAuTsXsz5qJdEjuJ5+mZltA2hYy3gh06FHDl5ARC/kRdEgiTbV07ijySaLVdHKKQ9uHAyaZRGTb1lSX+uQ9k5NpGLKu4688vvSSlyxrCuZhX3X6xZTWvmgC5fk/JZj7tCtMm1OzLlZpHrgZdyCmXah6eJaErz03RiFeg9XHgThWndv+3C1A1eHh9Xtct95kTEmR2ZyEI58xnp7aGaNUhNPdZ6xzK/soD0hgmyM3fSd2k3A=="
+  }
+}
